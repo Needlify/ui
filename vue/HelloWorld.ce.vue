@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello {{ name }}</h1>
+   <h1>Hello {{ name }}</h1>
 </template>
 
 <script>
@@ -8,10 +8,10 @@ export default {
       name: {
          type: String,
          required: false,
-         default: "World"
-      }
-   }
-}
+         default: "World",
+      },
+   },
+};
 </script>
 
 <style lang="scss" scoped>
