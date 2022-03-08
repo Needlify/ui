@@ -2,11 +2,7 @@
   "name": "@needlify/ui",
   "version": "1.0.0",
   "description": "A set of ui components built for Needlify",
-  "main": "dist/index.js",
-  "scripts": {
-    "dev": "nodemon --watch vue build.js",
-    "build": "node build.js"
-  },
+  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "AGPL-3.0",
